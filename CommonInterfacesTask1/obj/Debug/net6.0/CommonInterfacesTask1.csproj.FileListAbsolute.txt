@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\bin\Debug\net6.0\CommonInterfacesTask1.exe
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\bin\Debug\net6.0\CommonInterfacesTask1.deps.json
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\bin\Debug\net6.0\CommonInterfacesTask1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\bin\Debug\net6.0\CommonInterfacesTask1.dll
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\bin\Debug\net6.0\CommonInterfacesTask1.pdb
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.dll
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\refint\CommonInterfacesTask1.dll
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.pdb
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\CommonInterfacesTask1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\BP303\Tasks\CommonInterfacesTask1\CommonInterfacesTask1\obj\Debug\net6.0\ref\CommonInterfacesTask1.dll
